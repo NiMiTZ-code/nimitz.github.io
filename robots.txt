@@ -1,0 +1,5 @@
+#Disallow any crawler for whole site
+User-agent: *
+Disallow: /
+
+#There is no sitemap
