@@ -1,5 +1,9 @@
 #Disallow any crawler for whole site
 User-agent: *
+User-agent: APIs-Google
+User-agent: AdsBot-Google-Mobile
+User-agent: AdsBot-Google
+User-agent: Mediapartners-Google
 Disallow: /
 
 #There is no sitemap
